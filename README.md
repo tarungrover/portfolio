@@ -2,6 +2,9 @@
 My portfolio page for Telling Stories with Data at CMU.
 
 # About me
+
+Name: Tarun Grover
+
 I love working at intersection of people and technology. In my 3+ years of experience in Management Consulting, I have worked on various technologies to provide data driven solutions to clients and been recognized with multiple accolades for my contribution.
 
 My experiences so far have made me realize that a specialization and better understanding of data and information systems management would be a great way to grow in the field. Hence, I am pursuing Master’s in Information Systems Management from Heinz College CMU.
