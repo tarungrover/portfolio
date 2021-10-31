@@ -26,6 +26,8 @@ This will be where I would list about the cool stuff that I would be working wit
 
 ## Assignment 2
 
+<iframe src="https://data.oecd.org/chart/6vrN" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vrN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+
 ## Assignment 3
 
 .....
