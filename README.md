@@ -58,9 +58,11 @@ from the graph. The maximum cap is 8 countries/locations, one would not be able 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7692294"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 The maximum cao for the below area chart is 4 i.e. at max 4 countries can be visualized together on the viz to make it less cumbersome.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7696527"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 The above 2 methods of visualization are different in their own ways. The line graph represents the increase and decrease whereas area chart do point our towards the intensity
 of the ratio of debt to GDPs since this would provide better results if looked from the prespective of risk. The area chart is in proprotion to other countries selected hence it 
