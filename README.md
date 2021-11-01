@@ -30,6 +30,8 @@ This will be where I would list about the cool stuff that I would be working wit
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7688573"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7692294"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Assignment 3
 
 .....
