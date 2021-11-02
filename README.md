@@ -26,7 +26,7 @@ This will be where I would list about the cool stuff that I would be working wit
 
 ## Assignment 2
 
-[Link to File](/dataviz2.md)
+[Link to Assignment Page](/dataviz2.md)
 
 ## Assignment 3
 
