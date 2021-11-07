@@ -22,3 +22,5 @@ The total amount of money spent on rent nationwide over the past 10 years is hig
 national economy. Total rent paid in 2019 alone is higher than the entire 2018 GDP of Thailand ($505 billion) and just short of Argentina’s ($518 billion).
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/1078503"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Please refer the link for access to full data: [Data](https://files.zillowstatic.com/research/public_csvs/zori/Metro_ZORI_AllHomesPlusMultifamily_SSA.csv?t=1636241110)
