@@ -28,7 +28,7 @@ This will be where I would list about the cool stuff that I would be working wit
 
 [Link to Assignment Page](/dataviz2.md)
 
-## Assignment 3
+## Assignment 3 & 4
 
 [Link to Assignment Page](/dataviz3.md)
 
