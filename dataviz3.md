@@ -37,12 +37,7 @@ In order to acheive the final solution, below are some of the intermediate wiref
 
 ### Total rent trend (2014-2019)
 
-First wireframe visualizes a vertical bar chart has been created which essentially points out the trend of total rent across 106 cities every month. The data is averaged out over all years.
-
-![image](https://user-images.githubusercontent.com/37357639/140671662-6745e140-2436-41dc-a873-3b986f29b9cf.png)
-
-In the next wireframe, a line chart has been drawn for multiple countries and end user has the flexibility to scan through data for different years. The initial wireframe is
-trying to represent every city on one single chart with different color schemes as the rent donmination increases.
+First wireframe I was thinking to visualize using vertical bar chart has been created which essentially points out the trend of total rent across 106 cities every month. The data is averaged out over all years but instead decided to use a line chart has been drawn for multiple countries and end user has the flexibility to scan through data for different years. This wireframe is representing represent every city on one single chart with different color schemes as the rent donmination increases.
 
 ![image](https://user-images.githubusercontent.com/37357639/140671714-bc33e8b4-bcbe-4659-b7b7-692cc4f963bd.png)
 
