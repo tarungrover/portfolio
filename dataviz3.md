@@ -50,6 +50,9 @@ different cities in the US. The reason for choosing a line chart is to represent
 
 ### Testing the Solution
 
+I did share the initial wireframe with a couple of people and realized that representing many countries on one graph would cause problem in readibility and creating a grid 
+would also not enable any comparisons. Hence, I mention the details about feedback of the final wireframe since the initial wireframe was rejected.
+
 On sharing the final wireframe created above, the below feedback was received as per the questions asked. I have taken and considered feedbacks from 2 people, person X and Y.
 
 #### Person X
