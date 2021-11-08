@@ -44,7 +44,7 @@ First wireframe I was thinking to visualize using vertical bar chart has been cr
 In the below final wireframe, I have decided on the solution to provide end user the flexibility to finally choose between cities and represented the cumulative data on
 different cities in the US. The reason for choosing a line chart is to represent the time series on the monthly front. The rent has been averaged out across the years.
 
-![image](https://user-images.githubusercontent.com/37357639/140671756-370b520c-2516-4e9a-a2af-b6311df73ed7.png)
+![image](https://user-images.githubusercontent.com/37357639/140684969-7d1e3a7f-2cc2-4a28-94e5-aba02f8b4e33.png)
 
 ### Testing the Solution
 
