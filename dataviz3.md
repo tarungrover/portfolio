@@ -46,3 +46,7 @@ different cities in the US. The reason for choosing a line chart is to represent
 
 ![image](https://user-images.githubusercontent.com/37357639/140671756-370b520c-2516-4e9a-a2af-b6311df73ed7.png)
 
+### Testing the Solution
+
+On sharing the final wireframe created above, the below feedback was received as per the questions asked.
+
