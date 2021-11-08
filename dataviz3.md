@@ -35,7 +35,7 @@ be low. This same can also be used by landlords who generally rent their apartme
 
 In order to acheive the final solution, below are some of the intermediate wireframes created to move towards the final goal.
 
-### Total rent trend (2014-2019)
+##### Total rent trend (2014-2019)
 
 First wireframe I was thinking to visualize using vertical bar chart has been created which essentially points out the trend of total rent across 106 cities every month. The data is averaged out over all years but instead decided to use a line chart has been drawn for multiple countries and end user has the flexibility to scan through data for different years. This wireframe is representing represent every city on one single chart with different color schemes as the rent donmination increases.
 
