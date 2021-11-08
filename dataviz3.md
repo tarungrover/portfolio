@@ -10,7 +10,7 @@ rental price and the way it varies during a year. One can base their decisions o
 The reason that I choose this viz is since I did struggle for 2-3 months to find a home within my budget and decide on the tenure of the rental lease I signed. Having
 access to the data and visualization would turn out to be useful while going through the appartment hunt!
 
-### Step 1 
+### Data Visualization and Source 
 
 Below is a vizualization from ZORI (zillow observed rental index) data set which represents the increase in total rent in major metro cities within the United States.
 The viz is trying to represent the trend in some of the major cities from the year 2005 to 2019. One thing that the vizualization prominently represents is the increase
@@ -24,3 +24,30 @@ national economy. Total rent paid in 2019 alone is higher than the entire 2018 G
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/1078503"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Please refer the link for access to full data: [Data](https://files.zillowstatic.com/research/public_csvs/zori/Metro_ZORI_AllHomesPlusMultifamily_SSA.csv?t=1636241110)
+
+### WireFraming the solution
+
+As discussed in the critique, since we have such data available at our disposal, we can use it to generate better and more valuable insights. One problem that I would try to 
+address using this data would be for the audience/people who are looking to rent an apartment in one of the metro cities in the United States. The data viz can help these
+people to select the month in which they would like to rent to get the best rent for themselves and also to decide on a lease if they have to move urgently. For example,
+somebody who has to move urgently can take shorter lease in exepnsive months and then look for apartments with less rent in months when the rent trend indicates the rent to
+be low. This same can also be used by landlords who generally rent their apartments in deciding the changes within the rent prices.
+
+In order to acheive the final solution, below are some of the intermediate wireframes created to move towards the final goal.
+
+### Total rent trend (2014-2019)
+
+First wireframe visualizes a vertical bar chart has been created which essentially points out the trend of total rent across 106 cities every month. The data is averaged out over all years.
+
+![image](https://user-images.githubusercontent.com/37357639/140671662-6745e140-2436-41dc-a873-3b986f29b9cf.png)
+
+In the next wireframe, a line chart has been drawn for multiple countries and end user has the flexibility to scan through data for different years. The initial wireframe is
+trying to represent every city on one single chart with different color schemes as the rent donmination increases.
+
+![image](https://user-images.githubusercontent.com/37357639/140671714-bc33e8b4-bcbe-4659-b7b7-692cc4f963bd.png)
+
+In the below final wireframe, I have decided on the solution to provide end user the flexibility to finally choose between cities and represented the cumulative data on
+different cities in the US. The reason for choosing a line chart is to represent the time series on the monthly front. The rent has been averaged out across the years.
+
+![image](https://user-images.githubusercontent.com/37357639/140671756-370b520c-2516-4e9a-a2af-b6311df73ed7.png)
+
