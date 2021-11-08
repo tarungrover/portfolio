@@ -108,11 +108,17 @@ Yes, a bar graph does show the intensity of the quantity since ti would show me 
 
 After noticing the similarities and opinions from different peopel, I would be changing the following things to make my message through the data visualization much more 
 clearer:
-1. A clearer titel that does not only specify total rent but also the catches the eye of intended audience.
+1. A clearer title that does not only specify total rent but also the catches the eye of intended audience.
 2. Mention if the digits are actually average or summation over the sepcified year.
 3. Consider the vertical bar graph for each month and see how it actually looks.
 4. Specifically highlights the month with least average rent to attract immediate attention of people paying rent which would be the intended audience.
 5. Data points for each month are necessary if I am not using bars to represent the rise and fall.
 
-### Solution
+### Final Solution'
+
+The below is the final data visualization that I have created. I have used a line chart and scaled y-axis according to scale. This cahrt could finally help people scan through multiple metro cities in US and visually compare when the rents are actually lowest during an year. The rents are averaged across the years (2014-2020). It also represents the average rent of entire United States as well and also gives an opportunity to select for one particular city. Feel free to explore different cities and enjoy.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7768876"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Thank You!
 
