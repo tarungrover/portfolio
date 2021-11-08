@@ -118,6 +118,8 @@ clearer:
 
 The below is the final data visualization that I have created. I have used a line chart and scaled y-axis according to scale. This cahrt could finally help people scan through multiple metro cities in US and visually compare when the rents are actually lowest during an year. The rents are averaged across the years (2014-2020). It also represents the average rent of entire United States as well and also gives an opportunity to select for one particular city. Feel free to explore different cities and enjoy.
 
+On conlcusion that we can make from the data viz below is that a person can alsmost save 50-60$ on a monthly basis if they rent an apartment in United States during January and sign a contract of an year or more.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7768876"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Thank You!
