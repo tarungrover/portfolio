@@ -50,5 +50,66 @@ different cities in the US. The reason for choosing a line chart is to represent
 
 ### Testing the Solution
 
-On sharing the final wireframe created above, the below feedback was received as per the questions asked.
+On sharing the final wireframe created above, the below feedback was received as per the questions asked. I have taken and considered feedbacks from 2 people, person X and Y.
+
+#### Person X
+
+- *Can you tell me what you think this is?*
+The first thing that the person X recognized was option to select different cities and the next thing the graph talks about the rents in different months. 
+
+- *Can you describe to me what this is telling you?*
+Person X mentioned that the graph shows that lowest possible rent can be attained around months March-June and recognized that as the best time to move in.
+
+- *Is there anything you find surprising or confusing*
+One thing that year being mentioned as (2014-2019) is this rent the summation of all or averaged across the years?
+
+- *Who do you think is the intended audience for this*
+People who are new to the country and looking to rent an appartment.
+
+- *Is there anything you would change or do differently?*
+Person X mentioned that this can also be depicted using a histogram (or a form of bar) as well and would  have liked to see it instead.
+
+- *Would you like to see the dots or just a normal line?*
+Person X mentioned that points help them map it to a particular month and they would like to see them and also maybe in a different color to different intensities of the dot 
+size that represent the lowering of rent.
+
+- *Could this have been better if bar graphs are used instead?*
+yes, bars would look better and also maintain this to be a time series trend effectively.
+
+#### Person Y
+
+- *Can you tell me what you think this is?*
+The first thing that Person Y noticed was the fesaibility to select different cities and this viz talks about the rent trends across years 2014-2020.
+
+- *Can you describe to me what this is telling you?*
+This talks about different rent trends across 6 years and divides it on the basis of months.
+
+- *Is there anything you find surprising or confusing?*
+One thing that Person Y brought to my attention was that their initial intrepretation after reading the title was that they saw the amount of rent paid that people paid during each month which is also correct in a way.
+
+- *Who do you think is the intended audience for this?*
+As mentioned by the person, the intended audience would be people looking to rent the apartments and could help them figure out the month in which the rents would be the 
+lowest and could also help the people figure out their rental contract tenures.
+
+- *Is there anything you would change or do differently?*
+The person said that they would definitely mention the fact that rents are lowered at some places of the graph which could be advantageous for people who are looking for new 
+places.
+
+- *Would you like to see the dots or just a normal line?*
+The dots are good enough since that helps them map to the month.
+
+- *Could this have been better if bar graphs are used instead?*
+Yes, a bar graph does show the intensity of the quantity since ti would show me how much effect and lower excatly each month is as compared to the other one.
+
+***LEARNINGS/CHANGES***
+
+After noticing the similarities and opinions from different peopel, I would be changing the following things to make my message through the data visualization much more 
+clearer:
+1. A clearer titel that does not only specify total rent but also the catches the eye of intended audience.
+2. Mention if the digits are actually average or summation over the sepcified year.
+3. Consider the vertical bar graph for each month and see how it actually looks.
+4. Specifically highlights the month with least average rent to attract immediate attention of people paying rent which would be the intended audience.
+5. Data points for each month are necessary if I am not using bars to represent the rise and fall.
+
+### Solution
 
