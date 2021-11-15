@@ -64,7 +64,7 @@ final message better, easy to understand and engages the audience. Before starti
 trying Flourish and Tableau to play with different visualizations.
 
 As for the final deliverable, the plan for now is to create a website using Shorthand and embedding these visualizations to form a story out of it keeping in mind that a 
-person would use this a way to make a dicsion while renting/buying an apartment 
+person would use this a way to make a dicsion while renting/buying an apartment.
 
 
 
