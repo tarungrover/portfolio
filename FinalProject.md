@@ -27,7 +27,11 @@ months.
 The entire data set can be picked from [Zillow's Data Research site](https://www.zillow.com/research/data/)
 
 Home Values [Data](https://files.zillowstatic.com/research/public_csvs/zhvi/Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv?t=1636998208)
+
 Home Values Forecasts [Data](https://files.zillowstatic.com/research/public_csvs/zhvf/zhvf_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv?t=1636998208)
+
 Rent Index [Data](https://files.zillowstatic.com/research/public_csvs/zori/Metro_ZORI_AllHomesPlusMultifamily_SSA.csv?t=1636998208)
+
 Inventory [Data](https://files.zillowstatic.com/research/public_csvs/invt_fs/Metro_invt_fs_uc_sfrcondo_sm_month.csv?t=1636998208)
+
 List and Sale Prices [Data](https://files.zillowstatic.com/research/public_csvs/mlp/Metro_mlp_uc_sfrcondo_sm_month.csv?t=1636998208)
