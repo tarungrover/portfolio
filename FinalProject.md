@@ -1,8 +1,9 @@
 ## Trends in Real Estate Data
 
-For this project, I will be trying to demonstrate different visuaizations to provide better understanding of data and I will be trying to show the seasonality in real estate data trends
-pointing out renting and buying cost associated, the volume of houses availabel throughout different seasons and different months across years. One thing that I hope to accomplish using 
-these visualizations is to explore and keep in mind such trends while making a decision regaridng renting and buying a real estate property for oneself.
+For this project, I will be trying to demonstrate different visuaizations to provide better understanding of data and I will be trying to show the seasonality in real estate 
+data trends pointing out renting and buying cost associated, the volume of houses availabel throughout different seasons and different months across years. One thing that I 
+hope to accomplish using these visualizations is to explore and keep in mind such trends while making a decision regaridng renting and buying a real estate property for 
+oneself.
 
 Layout of the main visualizations in the project would include:
 
