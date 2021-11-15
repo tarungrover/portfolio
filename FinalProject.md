@@ -22,7 +22,7 @@ Aother vizualization for pointing out trends through different times across diff
 And then maybe if I observe trends in Price cuts dataset , I will also try to visualize the price cuts taken during each month i.e. how much the cost of home changes through different
 months.
 
-#### Below are the Data Sources for each of them:
+#### Data Sources
 
 The entire data set can be picked from [Zillow's Data Research site](https://www.zillow.com/research/data/)
 
