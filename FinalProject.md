@@ -19,8 +19,28 @@ This trend was also represented in my previous assignments and would be dwelling
 #### Inventory and Listing Pricing:
 Aother vizualization for pointing out trends through different times across different years.
 
-And then maybe if I observe trends in Price cuts dataset , I will also try to visualize the price cuts taken during each month i.e. how much the cost of home changes through different
-months.
+And then maybe if I observe trends in Price cuts dataset , I will also try to visualize the price cuts taken during each month i.e. how much the cost of home changes through 
+different months.
+
+#### SKETCHES
+
+###### Potential Layout
+
+![image](https://user-images.githubusercontent.com/37357639/141838357-23c3c264-312b-467e-afcc-b47794a9ccca.png)
+
+###### Deeper into VISUALIZATIONS
+
+#### SKETCH 1: Trends in Inventory of Data
+
+![image](https://user-images.githubusercontent.com/37357639/141838460-1f9b7c85-4253-4acb-ae34-23bfcb67bf6b.png)
+
+#### SKETCH 2: Home Value Forecasted
+
+![image](https://user-images.githubusercontent.com/37357639/141838608-80684064-6757-47b6-9788-1b79afee397e.png)
+
+#### SKETCH 3: Rental Trends
+
+![image](https://user-images.githubusercontent.com/37357639/141838675-23fc169e-c7a2-48f1-a4d9-f6b9da6bd332.png)
 
 #### Data Sources
 
