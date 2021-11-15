@@ -35,3 +35,15 @@ Rent Index [Data](https://files.zillowstatic.com/research/public_csvs/zori/Metro
 Inventory [Data](https://files.zillowstatic.com/research/public_csvs/invt_fs/Metro_invt_fs_uc_sfrcondo_sm_month.csv?t=1636998208)
 
 List and Sale Prices [Data](https://files.zillowstatic.com/research/public_csvs/mlp/Metro_mlp_uc_sfrcondo_sm_month.csv?t=1636998208)
+
+#### Further Steps
+
+I will be trying to try and explore different visualizations on the dataset provided and getting feedbacks from people and then finalizing the type of viz that expresses the 
+final message better, easy to understand and engages the audience. Before starting viz part, data cleansing manipulation will be performed using Python. Then, I will be 
+trying Flourish and Tableau to play with different visualizations.
+
+As for the final deliverable, the plan for now is to create a website using Shorthand and embedding these visualizations to form a story out of it keeping in mind that a 
+person would use this a way to make a dicsion while renting/buying an apartment 
+
+
+
