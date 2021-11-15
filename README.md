@@ -32,6 +32,6 @@ This will be where I would list about the cool stuff that I would be working wit
 
 [Link to Assignment Page](/dataviz3.md)
 
-.....
-
 ## Final Project
+
+[Part I](/FinalProject.md)
