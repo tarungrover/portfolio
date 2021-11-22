@@ -8,9 +8,9 @@ between the age of 22-40.
 
 ## Apprach to identify target audeince
 
-The essential target audience would be people who are looking to change their places or looking to buy a house. As for my research, I would be collecting it from 2 CMU graduate 
-students to gain a better prespective on the visualizations and one from a middle aged working person who would provide me a feedback on whether the story would be any helpful 
-in totality or not.
+The essential target audience would be people who are looking to change their places or looking to buy a house. As for my research, I would be collecting it from 2 CMU 
+graduate students to gain a better prespective on the visualizations and one from a middle aged working person who would provide me a feedback on whether the story would be 
+any helpful in totality or not.
 
 ## Interview Script
 
@@ -37,6 +37,29 @@ Person B mentioned that there was a sort of disconnect within the flow of the pa
 were able to comprehend it. 
 
 #### Can you please explain what you understood from viz 1? Is there any bit that was confusing to you or something that you would like to do differently.
+Person A and B mentioned about the title of the viz being below the viz, they immediately got the intention of pointing out the average price across different months and 
+different regions. However, the title being mentioned below the viz was an issue here for them.
+
+Person C pointed out that had the bars been sorted wither in the form of value in value or the size of home, it would have been easier to read. Also, highlighting the one 
+with the highest value would be a good way of representation.
+
+#### Can you please explain what you understood from viz 2? Is there any bit that was confusing to you or something that you would like to do differently.
+All 3 people were not able to understand the viz and were not able to comprehend what is it trying to convey. The bubles were not visible and then they were not able to 
+understand the hierarchy of the bubles.
+
+Once they selected particular filter, they were able to understand what the bubles were presenting initially in default selection of "All".
+
+#### Can you please explain what you understood from viz 3 and 4? Is there any bit that was confusing to you or something that you would like to do differently.
+Person C was happy with the viz and and got the message and was able to notice the interesting insights. 
+
+Person A and B had similar feedback but pointed out that an area line chart or the color beneath the line was not really required.
+
+#### Any last feedbacks regarding the color scheme or background of the entire page?
+All three concluded saying that they got the message but this page could eventually have a much better presentation and would help people way much.
+
+## Changes to be implemented
+
+
 
 
 
