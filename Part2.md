@@ -62,7 +62,11 @@ All three concluded saying that they got the message but this page could eventua
 After receiving the feedback, I have decided on the below changes to be made further.
 
 1. Since everyone understood the idea of the page, I would essentially extend these and generate more viz using the dataset I have.
-2. Changes to be made to viz 2. Would have to re-consider the buble chart or imprve it.
+2. Changes to be made to viz 2. Would have to re-consider the buble chart or improve it.
+3. Adding and editing appropriate titles for all visuals on the shorthand website.
+4. Improving the description on the webpage and adding the key insights to it.
+5. Specifically sorting viz 1 in a particular orderto display the message in a concise way.
+6. Adding and working on upcoming visualizations as well.
 
 
 
