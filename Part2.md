@@ -59,6 +59,10 @@ All three concluded saying that they got the message but this page could eventua
 
 ## Changes to be implemented
 
+After receiving the feedback, I have decided on the below changes to be made further.
+
+1. Since everyone understood the idea of the page, I would essentially extend these and generate more viz using the dataset I have.
+2. Changes to be made to viz 2. Would have to re-consider the buble chart or imprve it.
 
 
 
