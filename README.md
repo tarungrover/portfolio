@@ -37,3 +37,5 @@ This will be where I would list about the cool stuff that I would be working wit
 [Part I](/FinalProject.md)
 
 [Part II](/Part2.md)
+
+[Part III](/Part3.md)
