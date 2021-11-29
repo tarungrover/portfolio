@@ -52,3 +52,9 @@ While creating a story using Shorthand and Flourish and cleaning the data, I did
 
 There are some other observations that are not mentioned here but I would suggest you to explore the same on the Zillows publicly available data.
 [Source](https://www.zillow.com/research/data/)
+
+## Shorthand Story
+
+<script src="https://carnegiemellon.shorthandstories.com/buying-your-dream-home/embed.js"></script>
+
+
