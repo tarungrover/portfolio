@@ -55,6 +55,10 @@ There are some other observations that are not mentioned here but I would sugges
 
 ## Shorthand Story
 
+[Link to the Story](/https://carnegiemellon.shorthandstories.com/buying-your-dream-home/)
+
+The story is also embedded below.
+
 <script src="https://carnegiemellon.shorthandstories.com/buying-your-dream-home/embed.js"></script>
 
 
