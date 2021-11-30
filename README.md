@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 My portfolio page for Telling Stories with Data at CMU.
 
 # About me
@@ -18,7 +18,7 @@ Email: tarung@andrew.cmu.com
 
 In simple words, I hope to learn and be profecient with expressing stories throguh data since data visualization is of paramount importnace in order to work with data.
 
-# Portfolio
+# My Work
 
 This will be where I would list about the cool stuff that I would be working within this course including project.
 
