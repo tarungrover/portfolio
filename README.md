@@ -24,7 +24,7 @@ This will be where I would list about the cool stuff that I would be working wit
 
 ## Data Visualization Critique #1
 
-[Critiqie File](/Tarun Grover - Critique #1_ FITARA and CNBC graphics (The Good Charts Matrix).xlsx)
+[Critiqie File](/Data_Viz_Critique.xlsx)
 
 ## Visualizating government debt
 
