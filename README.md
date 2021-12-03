@@ -22,13 +22,15 @@ In simple words, I hope to learn and be profecient with expressing stories throg
 
 This will be where I would list about the cool stuff that I would be working within this course including project.
 
-## Assigment 1
+## Data Visualization Critique #1
 
-## Assignment 2
+[Critiqie File](/Tarun Grover - Critique #1_ FITARA and CNBC graphics (The Good Charts Matrix).xlsx)
+
+## Visualizating government debt
 
 [Link to Assignment Page](/dataviz2.md)
 
-## Assignment 3 & 4
+## Critique by Design
 
 [Link to Assignment Page](/dataviz3.md)
 
