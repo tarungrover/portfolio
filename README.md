@@ -28,11 +28,11 @@ This will be where I would list about the cool stuff that I would be working wit
 
 ## Visualizating government debt
 
-[Link to Assignment Page](/dataviz2.md)
+[Visulaizing Debt Page](/dataviz2.md)
 
 ## Critique by Design
 
-[Link to Assignment Page](/dataviz3.md)
+[Critique by Design Page](/dataviz3.md)
 
 ## Final Project
 
